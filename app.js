@@ -1,0 +1,1 @@
+alert ("Su boleta yaha sido pagada")
